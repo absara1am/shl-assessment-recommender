@@ -1,0 +1,16 @@
+pandas  
+sentence-transformers  
+torch  
+requests  
+beautifulsoup4  
+streamlit  
+fastapi  
+uvicorn  
+langchain  
+huggingface_hub  
+transformers  
+python-dotenv  
+scikit-learn  
+langchain-huggingface  
+langchain-community  
+numpy  
